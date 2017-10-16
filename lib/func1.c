@@ -5,4 +5,5 @@ void func1()
 {
 	printf("func1 : Hello!\n");
 	printf("branch is master\n");
+	printf("new branch!\n");
 }

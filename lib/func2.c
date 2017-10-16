@@ -4,4 +4,5 @@
 void func2()
 {
 	printf("func2 : Hello\n");
+	scanf();
 }
